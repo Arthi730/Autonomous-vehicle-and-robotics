@@ -133,10 +133,7 @@ Real-Time Decision Making: Solved with RTOS & GPUs.
 System Safety: Solved with redundancy and fail-safes.
 
 Outcomes of Phase 4
-
 Accurate perception and localization (SLAM).
 Efficient and safe navigation.
 Optimized energy use.
 Real-time control and reliability.
-
-
